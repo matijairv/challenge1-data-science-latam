@@ -1,5 +1,5 @@
-<h1 align="center"> 📊 Alura Store LATAM — Análisis de Datos </h1>
-📘 Descripción del proyecto
+# <h1 align="center"> 📊 Alura Store LATAM — Análisis de Datos </h1>
+## 📘 Descripción del proyecto
 
 Este proyecto forma parte del Challenge de Data Science del programa Oracle Next Education (ONE) en colaboración con Alura LATAM.
 
@@ -9,7 +9,7 @@ Para ello, se analizan distintos indicadores de negocio como ingresos totales, d
 
 El proyecto se desarrolla en Google Colab utilizando librerías de análisis y visualización de datos para identificar patrones relevantes y generar una recomendación basada en datos.
 
-🎯 Objetivo del análisis
+## 🎯 Objetivo del análisis
 
 El objetivo principal es evaluar el desempeño de las cuatro tiendas de Alura Store a partir de diferentes métricas clave de negocio, con el propósito de determinar cuál de ellas presenta el rendimiento más bajo.
 
@@ -27,14 +27,16 @@ Costo promedio de envío
 
 A partir de estos indicadores se busca identificar fortalezas y debilidades de cada tienda para respaldar una recomendación estratégica basada en datos.
 
-📂 Estructura del proyecto
-AluraStore-DataAnalysis
+## 📂 Estructura del proyecto
+challenge1-data-science-latam
 │
 ├── AluraStoreLatam.ipynb
 │
 ├── README.md
 │
 └── images/
+    └── graficos_del_analisis
+└── base-de-datos-challenge1-latam/
     └── graficos_del_analisis
 
 AluraStoreLatam.ipynb
@@ -132,7 +134,7 @@ Tecnología	Uso
 💾 GitHub	Control de versiones y publicación
 👨‍💻 Autor
 
-Jair
+matijairv
 
 Proyecto realizado como parte del programa Oracle Next Education (ONE) — Alura LATAM.
 
