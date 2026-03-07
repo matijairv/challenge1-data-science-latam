@@ -27,6 +27,39 @@ Costo promedio de envío
 
 A partir de estos indicadores se busca identificar fortalezas y debilidades de cada tienda para respaldar una recomendación estratégica basada en datos.
 
+## 📂 Estructura del proyecto
+
+    challenge1-data-science-latam
+    │
+    ├── AluraStoreLatam.ipynb
+    │
+    ├── README.md
+    │
+    └── images/
+      └── comparacion_precios_costos.png
+      └── distribucion_categorias.png
+      └── facturacion_tiendas.png
+      └── prmedios_calificaciones.png
+    └── base-de-datos-challenge1-latam/
+      └── tienda_1.csv
+      └── tienda_2.csv
+      └── tienda_3.csv
+      └── tienda_4.csv
+
+
+AluraStoreLatam.ipynb
+
+Notebook principal donde se realiza:
+
+Importación de datos
+
+Limpieza y exploración del dataset
+
+Análisis exploratorio de datos
+
+Generación de visualizaciones
+
+Informe final con conclusiones
 
 ## ⚙️ Instalación y ejecución
 
@@ -101,15 +134,18 @@ Por esta razón, se recomienda que el Sr. Juan considere vender la Tienda 4, ya 
 Esta decisión permitiría concentrar recursos y esfuerzos en las tiendas con mejor rendimiento, optimizando así la eficiencia y rentabilidad del negocio.
 
 ## 🧰 Tecnologías utilizadas
-Tecnología	Uso
-🐍 Python	Lenguaje principal de análisis
-📊 Pandas	Manipulación y análisis de datos
-📈 Matplotlib	Visualización de datos
-☁️ Google Colab	Entorno de desarrollo
-💾 GitHub	Control de versiones y publicación
-👨‍💻 Autor
 
-matijairv
+🐍 Python	Lenguaje principal de análisis
+
+📊 Pandas	Manipulación y análisis de datos
+
+📈 Matplotlib	Visualización de datos
+
+☁️ Google Colab	Entorno de desarrollo
+
+💾 GitHub	Control de versiones y publicación
+
+👨‍💻 Autor: matijairv
 
 Proyecto realizado como parte del programa Oracle Next Education (ONE) — Alura LATAM.
 
