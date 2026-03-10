@@ -39,7 +39,7 @@ A partir de estos indicadores se busca identificar fortalezas y debilidades de c
       └── comparacion_precios_costos.png
       └── distribucion_categorias.png
       └── facturacion_tiendas.png
-      └── prmedios_calificaciones.png
+      └── promedios_calificaciones.png
     └── base-de-datos-challenge1-latam/
       └── tienda_1.csv
       └── tienda_2.csv
